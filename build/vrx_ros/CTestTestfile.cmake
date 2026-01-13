@@ -1,0 +1,6 @@
+# CMake generated Testfile for 
+# Source directory: /home/kky/vrx_ws/src/vrx/vrx_ros
+# Build directory: /home/kky/vrx_ws/src/vrx/build/vrx_ros
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.

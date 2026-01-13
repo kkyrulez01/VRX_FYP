@@ -1,0 +1,10 @@
+/home/kky/vrx_ws/src/vrx/build/wamv_description/CMakeFiles/uninstall.dir
+/home/kky/vrx_ws/src/vrx/build/wamv_description/CMakeFiles/wamv_description_uninstall.dir
+/home/kky/vrx_ws/src/vrx/build/wamv_description/CMakeFiles/wamv_description__xacro_auto_generate.dir
+/home/kky/vrx_ws/src/vrx/build/wamv_description/CMakeFiles/test.dir
+/home/kky/vrx_ws/src/vrx/build/wamv_description/CMakeFiles/edit_cache.dir
+/home/kky/vrx_ws/src/vrx/build/wamv_description/CMakeFiles/rebuild_cache.dir
+/home/kky/vrx_ws/src/vrx/build/wamv_description/CMakeFiles/list_install_components.dir
+/home/kky/vrx_ws/src/vrx/build/wamv_description/CMakeFiles/install.dir
+/home/kky/vrx_ws/src/vrx/build/wamv_description/CMakeFiles/install/local.dir
+/home/kky/vrx_ws/src/vrx/build/wamv_description/CMakeFiles/install/strip.dir

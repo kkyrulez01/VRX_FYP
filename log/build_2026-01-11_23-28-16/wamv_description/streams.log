@@ -1,0 +1,70 @@
+[0.009s] Invoking command in '/home/kky/vrx_ws/src/vrx/build/wamv_description': AMENT_PREFIX_PATH=/home/kky/vrx_ws/src/vrx/install:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/kky/vrx_ws/src/vrx/install:/home/kky/vrx_ws/install:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com GZ_SIM_RESOURCE_PATH=/home/kky/vrx_ws/src/vrx/install/share/vrx_gazebo/models:/home/kky/vrx_ws/src/vrx/install/share:${GZ_SIM_RESOURCE_PATH} PYTHONPATH=/home/kky/vrx_ws/src/vrx/install/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/cmake /home/kky/vrx_ws/src/vrx/vrx_urdf/wamv_description -DCMAKE_INSTALL_PREFIX=/home/kky/vrx_ws/src/vrx/install
+[0.068s] -- The C compiler identification is GNU 13.3.0
+[0.127s] -- The CXX compiler identification is GNU 13.3.0
+[0.144s] -- Detecting C compiler ABI info
+[0.239s] -- Detecting C compiler ABI info - done
+[0.249s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.249s] -- Detecting C compile features
+[0.249s] -- Detecting C compile features - done
+[0.259s] -- Detecting CXX compiler ABI info
+[0.364s] -- Detecting CXX compiler ABI info - done
+[0.374s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.374s] -- Detecting CXX compile features
+[0.374s] -- Detecting CXX compile features - done
+[0.380s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.543s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[0.683s] -- Found xacro: 2.1.1 (/opt/ros/jazzy/share/xacro/cmake)
+[0.684s] -- xacro: determining deps for: urdf/wamv_base.urdf.xacro ...
+[0.900s] -- Configuring done (0.9s)
+[0.904s] -- Generating done (0.0s)
+[0.906s] -- Build files have been written to: /home/kky/vrx_ws/src/vrx/build/wamv_description
+[0.911s] Invoked command in '/home/kky/vrx_ws/src/vrx/build/wamv_description' returned '0': AMENT_PREFIX_PATH=/home/kky/vrx_ws/src/vrx/install:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/kky/vrx_ws/src/vrx/install:/home/kky/vrx_ws/install:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com GZ_SIM_RESOURCE_PATH=/home/kky/vrx_ws/src/vrx/install/share/vrx_gazebo/models:/home/kky/vrx_ws/src/vrx/install/share:${GZ_SIM_RESOURCE_PATH} PYTHONPATH=/home/kky/vrx_ws/src/vrx/install/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/cmake /home/kky/vrx_ws/src/vrx/vrx_urdf/wamv_description -DCMAKE_INSTALL_PREFIX=/home/kky/vrx_ws/src/vrx/install
+[0.912s] Invoking command in '/home/kky/vrx_ws/src/vrx/build/wamv_description': AMENT_PREFIX_PATH=/home/kky/vrx_ws/src/vrx/install:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/kky/vrx_ws/src/vrx/install:/home/kky/vrx_ws/install:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com GZ_SIM_RESOURCE_PATH=/home/kky/vrx_ws/src/vrx/install/share/vrx_gazebo/models:/home/kky/vrx_ws/src/vrx/install/share:${GZ_SIM_RESOURCE_PATH} PYTHONPATH=/home/kky/vrx_ws/src/vrx/install/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/kky/vrx_ws/src/vrx/build/wamv_description -- -j16 -l16
+[0.968s] [100%] [34m[1mxacro: generating urdf/wamv_base.urdf from urdf/wamv_base.urdf.xacro[0m
+[1.095s] [100%] Built target wamv_description__xacro_auto_generate
+[1.108s] Invoked command in '/home/kky/vrx_ws/src/vrx/build/wamv_description' returned '0': AMENT_PREFIX_PATH=/home/kky/vrx_ws/src/vrx/install:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/kky/vrx_ws/src/vrx/install:/home/kky/vrx_ws/install:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com GZ_SIM_RESOURCE_PATH=/home/kky/vrx_ws/src/vrx/install/share/vrx_gazebo/models:/home/kky/vrx_ws/src/vrx/install/share:${GZ_SIM_RESOURCE_PATH} PYTHONPATH=/home/kky/vrx_ws/src/vrx/install/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/kky/vrx_ws/src/vrx/build/wamv_description -- -j16 -l16
+[1.109s] Invoking command in '/home/kky/vrx_ws/src/vrx/build/wamv_description': AMENT_PREFIX_PATH=/home/kky/vrx_ws/src/vrx/install:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/kky/vrx_ws/src/vrx/install:/home/kky/vrx_ws/install:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com GZ_SIM_RESOURCE_PATH=/home/kky/vrx_ws/src/vrx/install/share/vrx_gazebo/models:/home/kky/vrx_ws/src/vrx/install/share:${GZ_SIM_RESOURCE_PATH} PYTHONPATH=/home/kky/vrx_ws/src/vrx/install/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/kky/vrx_ws/src/vrx/build/wamv_description
+[1.118s] -- Install configuration: ""
+[1.118s] -- Installing: /home/kky/vrx_ws/src/vrx/install/share/wamv_description/environment/resource_paths.dsv
+[1.118s] -- Installing: /home/kky/vrx_ws/src/vrx/install/share/wamv_description/environment/resource_paths.sh
+[1.118s] -- Installing: /home/kky/vrx_ws/src/vrx/install/share/wamv_description/urdf/wamv_base.urdf
+[1.119s] -- Installing: /home/kky/vrx_ws/src/vrx/install/share/wamv_description/models
+[1.119s] -- Installing: /home/kky/vrx_ws/src/vrx/install/share/wamv_description/models/propeller
+[1.119s] -- Installing: /home/kky/vrx_ws/src/vrx/install/share/wamv_description/models/propeller/model.config
+[1.119s] -- Installing: /home/kky/vrx_ws/src/vrx/install/share/wamv_description/models/propeller/mesh
+[1.119s] -- Installing: /home/kky/vrx_ws/src/vrx/install/share/wamv_description/models/propeller/mesh/propeller.dae
+[1.119s] -- Installing: /home/kky/vrx_ws/src/vrx/install/share/wamv_description/models/engine
+[1.119s] -- Installing: /home/kky/vrx_ws/src/vrx/install/share/wamv_description/models/engine/model.config
+[1.120s] -- Installing: /home/kky/vrx_ws/src/vrx/install/share/wamv_description/models/engine/mesh
+[1.120s] -- Installing: /home/kky/vrx_ws/src/vrx/install/share/wamv_description/models/engine/mesh/engine.dae
+[1.120s] -- Installing: /home/kky/vrx_ws/src/vrx/install/share/wamv_description/models/WAM-V-Base
+[1.120s] -- Installing: /home/kky/vrx_ws/src/vrx/install/share/wamv_description/models/WAM-V-Base/model.config
+[1.120s] -- Installing: /home/kky/vrx_ws/src/vrx/install/share/wamv_description/models/WAM-V-Base/mesh
+[1.120s] -- Installing: /home/kky/vrx_ws/src/vrx/install/share/wamv_description/models/WAM-V-Base/mesh/WAM-V_Roughness.png
+[1.125s] -- Installing: /home/kky/vrx_ws/src/vrx/install/share/wamv_description/models/WAM-V-Base/mesh/WAM-V_Albedo.png
+[1.134s] -- Installing: /home/kky/vrx_ws/src/vrx/install/share/wamv_description/models/WAM-V-Base/mesh/WAM-V-Base.dae
+[1.135s] -- Installing: /home/kky/vrx_ws/src/vrx/install/share/wamv_description/models/WAM-V-Base/mesh/WamV.png
+[1.138s] -- Installing: /home/kky/vrx_ws/src/vrx/install/share/wamv_description/models/WAM-V-Base/mesh/WAM-V_Metalness.png
+[1.138s] -- Installing: /home/kky/vrx_ws/src/vrx/install/share/wamv_description/models/WAM-V-Base/mesh/WAM-V_Normal.png
+[1.145s] -- Up-to-date: /home/kky/vrx_ws/src/vrx/install/share/wamv_description/urdf
+[1.145s] -- Installing: /home/kky/vrx_ws/src/vrx/install/share/wamv_description/urdf/thrusters
+[1.145s] -- Installing: /home/kky/vrx_ws/src/vrx/install/share/wamv_description/urdf/thrusters/engine.xacro
+[1.145s] -- Installing: /home/kky/vrx_ws/src/vrx/install/share/wamv_description/urdf/battery.xacro
+[1.146s] -- Installing: /home/kky/vrx_ws/src/vrx/install/share/wamv_description/urdf/wamv_base.urdf.xacro
+[1.146s] -- Installing: /home/kky/vrx_ws/src/vrx/install/share/wamv_description/urdf/cpu_cases.xacro
+[1.146s] -- Installing: /home/kky/vrx_ws/src/vrx/install/share/ament_index/resource_index/package_run_dependencies/wamv_description
+[1.146s] -- Installing: /home/kky/vrx_ws/src/vrx/install/share/ament_index/resource_index/parent_prefix_path/wamv_description
+[1.146s] -- Installing: /home/kky/vrx_ws/src/vrx/install/share/wamv_description/environment/ament_prefix_path.sh
+[1.146s] -- Installing: /home/kky/vrx_ws/src/vrx/install/share/wamv_description/environment/ament_prefix_path.dsv
+[1.147s] -- Installing: /home/kky/vrx_ws/src/vrx/install/share/wamv_description/environment/path.sh
+[1.147s] -- Installing: /home/kky/vrx_ws/src/vrx/install/share/wamv_description/environment/path.dsv
+[1.147s] -- Installing: /home/kky/vrx_ws/src/vrx/install/share/wamv_description/local_setup.bash
+[1.147s] -- Installing: /home/kky/vrx_ws/src/vrx/install/share/wamv_description/local_setup.sh
+[1.147s] -- Installing: /home/kky/vrx_ws/src/vrx/install/share/wamv_description/local_setup.zsh
+[1.147s] -- Installing: /home/kky/vrx_ws/src/vrx/install/share/wamv_description/local_setup.dsv
+[1.148s] -- Installing: /home/kky/vrx_ws/src/vrx/install/share/wamv_description/package.dsv
+[1.148s] -- Installing: /home/kky/vrx_ws/src/vrx/install/share/ament_index/resource_index/packages/wamv_description
+[1.148s] -- Installing: /home/kky/vrx_ws/src/vrx/install/share/wamv_description/cmake/wamv_descriptionConfig.cmake
+[1.148s] -- Installing: /home/kky/vrx_ws/src/vrx/install/share/wamv_description/cmake/wamv_descriptionConfig-version.cmake
+[1.149s] -- Installing: /home/kky/vrx_ws/src/vrx/install/share/wamv_description/package.xml
+[1.151s] Invoked command in '/home/kky/vrx_ws/src/vrx/build/wamv_description' returned '0': AMENT_PREFIX_PATH=/home/kky/vrx_ws/src/vrx/install:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/kky/vrx_ws/src/vrx/install:/home/kky/vrx_ws/install:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com GZ_SIM_RESOURCE_PATH=/home/kky/vrx_ws/src/vrx/install/share/vrx_gazebo/models:/home/kky/vrx_ws/src/vrx/install/share:${GZ_SIM_RESOURCE_PATH} PYTHONPATH=/home/kky/vrx_ws/src/vrx/install/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/kky/vrx_ws/src/vrx/build/wamv_description

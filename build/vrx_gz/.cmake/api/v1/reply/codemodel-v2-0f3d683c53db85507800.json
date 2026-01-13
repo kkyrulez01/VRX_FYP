@@ -1,0 +1,277 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-a1b6ef41d2928785c1de.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10.2"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "vrx_gz",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "AcousticPerceptionScoringPlugin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AcousticPerceptionScoringPlugin-3fb922f88dee6addf895.json",
+					"name" : "AcousticPerceptionScoringPlugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AcousticPingerPlugin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AcousticPingerPlugin-5bc4b022ca66d4837376.json",
+					"name" : "AcousticPingerPlugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AcousticTrackingScoringPlugin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AcousticTrackingScoringPlugin-168e1d87887ebc8f9eaa.json",
+					"name" : "AcousticTrackingScoringPlugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BallShooterPlugin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BallShooterPlugin-760fb61776c4d5e8331f.json",
+					"name" : "BallShooterPlugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GymkhanaScoringPlugin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GymkhanaScoringPlugin-307eb5e3a4b22e26faf2.json",
+					"name" : "GymkhanaScoringPlugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LightBuoyPlugin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LightBuoyPlugin-99875642ca34910a0581.json",
+					"name" : "LightBuoyPlugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "NavigationScoringPlugin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NavigationScoringPlugin-615b3e3821cfd76474d2.json",
+					"name" : "NavigationScoringPlugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PerceptionScoringPlugin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PerceptionScoringPlugin-943e83a9e254b79a2451.json",
+					"name" : "PerceptionScoringPlugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PlacardPlugin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PlacardPlugin-13b7c31811e891237154.json",
+					"name" : "PlacardPlugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PolyhedraBuoyancyDrag::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PolyhedraBuoyancyDrag-eba22d693baae06c80c3.json",
+					"name" : "PolyhedraBuoyancyDrag",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PublisherPlugin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PublisherPlugin-ea9f9b0b093dabcad829.json",
+					"name" : "PublisherPlugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ScanDockScoringPlugin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ScanDockScoringPlugin-54fd1809f877fcb14972.json",
+					"name" : "ScanDockScoringPlugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ScoringPlugin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ScoringPlugin-eb71daca6ebe805096d7.json",
+					"name" : "ScoringPlugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SimpleHydrodynamics::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SimpleHydrodynamics-1c07eaab07d2c0ea725c.json",
+					"name" : "SimpleHydrodynamics",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "StationkeepingScoringPlugin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-StationkeepingScoringPlugin-b37b025f890a0c81e71b.json",
+					"name" : "StationkeepingScoringPlugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Surface::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Surface-9cd23f40bec0dea69a60.json",
+					"name" : "Surface",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "USVWind::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-USVWind-62017d929c3965e373d4.json",
+					"name" : "USVWind",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "WaveVisual::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-WaveVisual-d49f2e6a8ba5747fb4b5.json",
+					"name" : "WaveVisual",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Waves::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Waves-2472ecbac7280d519845.json",
+					"name" : "Waves",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "WayfindingScoringPlugin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-WayfindingScoringPlugin-7de99beaf1fa5f025bdc.json",
+					"name" : "WayfindingScoringPlugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "WildlifeScoringPlugin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-WildlifeScoringPlugin-31e3cee740b446a767c4.json",
+					"name" : "WildlifeScoringPlugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_vrx_gz_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_vrx_gz_egg-609886e5e699494b2d50.json",
+					"name" : "ament_cmake_python_build_vrx_gz_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_vrx_gz::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_vrx_gz-524f0d0d1ef6f1ee3853.json",
+					"name" : "ament_cmake_python_copy_vrx_gz",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-32b32a849b074b3208bc.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "vrx_gz_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-vrx_gz_uninstall-e013fedfe2e637fa14c0.json",
+					"name" : "vrx_gz_uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/kky/vrx_ws/src/vrx/build/vrx_gz",
+		"source" : "/home/kky/vrx_ws/src/vrx/vrx_gz"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
