@@ -110,7 +110,7 @@
       </plugin>
     </gazebo>
 
-    <!-- Ball shooter base joint controller -->
+    <!--Added Ball shooter base joint controller -->
     <gazebo>
       <plugin
         filename="gz-sim-joint-position-controller-system"
@@ -123,7 +123,7 @@
       </plugin>
     </gazebo>
 
-    <!-- Ball shooter launcher joint controller -->
+    <!-- Added Ball shooter launcher joint controller -->
     <gazebo>
       <plugin
         filename="gz-sim-joint-position-controller-system"
