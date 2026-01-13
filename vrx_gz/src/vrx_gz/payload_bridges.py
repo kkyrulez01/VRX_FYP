@@ -149,7 +149,7 @@ def ball_shooter(model_name):
         ros_type='std_msgs/msg/Bool',
         direction=BridgeDirection.ROS_TO_GZ)
 
-# # To control the ball shooter joint position
+# ros_gz_bridge to control the ball shooter joint position
 def ball_shooter_base_joint(model_name):
     return Bridge(
         gz_topic=f'/{model_name}/shooters/ball_shooter/base/pos',
@@ -158,7 +158,7 @@ def ball_shooter_base_joint(model_name):
         ros_type='std_msgs/msg/Float64',
         direction=BridgeDirection.ROS_TO_GZ)
 
-# To control the ball shooter joint position
+# ros_gz_bridge to control the ball shooter joint position
 def ball_shooter_joint(model_name):
     return Bridge(
         gz_topic=f'/{model_name}/shooters/ball_shooter/launcher/pos',
@@ -243,8 +243,8 @@ def payload_bridges(world_name, model_name, link_name, sensor_name, sensor_type)
     elif 'BallShooter' in sensor_name:
         bridges = [
             ball_shooter(model_name),
-            ball_shooter_base_joint(model_name), # Add bridge for ball shooter base joint position
-            ball_shooter_joint(model_name), # Add bridge for ball shooter launcher joint position
+            ball_shooter_base_joint(model_name), # Bridge for ball shooter base joint position
+            ball_shooter_joint(model_name), # Bridge for ball shooter launcher joint position
         ]
     elif 'thruster_thrust_' in sensor_name:
         bridges = [
