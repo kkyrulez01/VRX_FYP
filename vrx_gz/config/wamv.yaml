@@ -79,7 +79,7 @@ joy_teleop:
       type: topic
       interface_type: std_msgs/msg/Float64
       topic_name: /wamv/thrusters/left/thrust
-      deadman_buttons: [9]
+      deadman_buttons: [9] # "L1" button on PS4 controller
       axis_mappings:
         data:
           axis: 1
@@ -90,7 +90,7 @@ joy_teleop:
       type: topic
       interface_type: std_msgs/msg/Float64
       topic_name: /wamv/thrusters/right/thrust
-      deadman_buttons: [9]
+      deadman_buttons: [9] # "L1" button on PS4 controller
       axis_mappings:
         data:
           axis: 1
@@ -101,7 +101,7 @@ joy_teleop:
       type: topic
       interface_type: std_msgs/msg/Float64
       topic_name: /wamv/thrusters/left/pos
-      deadman_buttons: [9]
+      deadman_buttons: [9] # "L1" button on PS4 controller
       axis_mappings:
         data:
           axis: 0
@@ -112,7 +112,7 @@ joy_teleop:
       type: topic
       interface_type: std_msgs/msg/Float64
       topic_name: /wamv/thrusters/right/pos
-      deadman_buttons: [9]
+      deadman_buttons: [9] # "L1" button on PS4 controller
       axis_mappings:
         data:
           axis: 0
@@ -123,7 +123,7 @@ joy_teleop:
       type: topic
       interface_type: std_msgs/msg/Bool
       topic_name: /wamv/shooters/ball_shooter/fire
-      deadman_buttons: [1]
+      deadman_buttons: [1] # "A" button on PS4 controller
       message_value:
         data:
           value: true
